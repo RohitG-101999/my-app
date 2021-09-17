@@ -1,1 +1,1 @@
-# rewards-master
+# my-app
